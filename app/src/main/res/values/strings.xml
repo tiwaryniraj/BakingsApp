@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Baking Time</string>
+    <string name="description">Description</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="show_ingredient_widget">Display ingredients in Widget</string>
+    <string name="remove_ingredient_widget">Remove ingredients from Widget</string>
+    <string name="unknown_host_exception">Cannot connect to the internet. Please check your internet connection.</string>
+    <string name="steps">Steps</string>
+    <string name="sample_step_count">Step 1</string>
+    <string name="prev">Prev</string>
+    <string name="next">Next</string>
+    <string name="authority_provider">com.example.niraj.bakingsapp.database.provider</string>
+    <string name="data_loaded">%1$d data loaded.</string>
+    <string name="ingredient_of">Ingredients of %1$s</string>
+    <string name="step_count">Step %1$d</string>
+    <string name="recipe_selected">Ingredients of %1$s selected to be displayed on widget.</string>
+    <string name="recipe_removed">Ingredients removed from widget.</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="recipe_list">Recipe List</string>
+    <string name="recipes">Recipes</string>
+</resources>
